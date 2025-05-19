@@ -157,7 +157,7 @@ img
 {
     display: block;
     margin: auto;
-    padding-bottom: 48px;
+    margin-bottom: 48px;
     max-width: 496px;
     font-size: 56px;
     font-weight: 700;
@@ -274,10 +274,7 @@ img
 
 .team-name
 {
-    padding: 32px 0;
-    /*border: 1px solid #E7E9FC;
-    border-top: none;
-    border-radius: 0px 0px 4px 4px;*/
+    padding: 32px 0;    
 }
 
 .team-title
