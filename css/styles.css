@@ -143,6 +143,10 @@ img
  
 /*hero image*/
 
+.section {
+    padding: 120px 0;
+}
+
 .introduction-banner
 {    
     padding: 188px 0;
@@ -191,10 +195,6 @@ img
 }
 
 /*section strategy*/
-
-.section {
-    padding: 120px 0;
-}
 
 .visually-hidden
 {
@@ -268,14 +268,15 @@ img
 {
     width: calc((100% - 72px) / 4);
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-name
 {
     padding: 32px 0;
-    border: 1px solid #E7E9FC;
+    /*border: 1px solid #E7E9FC;
     border-top: none;
-    border-radius: 0px 0px 4px 4px;
+    border-radius: 0px 0px 4px 4px;*/
 }
 
 .team-title
