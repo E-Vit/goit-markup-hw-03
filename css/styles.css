@@ -32,6 +32,8 @@ h1, h2, h3, h4, h5, h6, p
 img 
 {
     display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 /* common */
@@ -325,3 +327,4 @@ img
     background: #2E2F42;
     letter-spacing: 0.02em;
 }
+
